@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e381154e-f63c-4c5a-8f7f-7d68133e351f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/language/gpt/gpt2_configs/gpt2_zero3.py" beforeDir="false" afterPath="$PROJECT_DIR$/language/gpt/gpt2_configs/gpt2_zero3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/language/gpt/train_gpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/language/gpt/train_gpt.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HnA7Ln8yfQtSBo3JmC7Ghtx4jM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/2 Learning/21 模型加速-知识蒸馏&模型压缩/ColossalAI-GPT",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.file": "F:/2 Learning/21 模型加速-知识蒸馏&模型压缩/ColossalAI-Examples/features/zero/train_v2.py"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2 Learning\21 模型加速-知识蒸馏&amp;模型压缩\ColossalAI-Examples\gpt" />
+      <recent name="F:\2 Learning\21 模型加速-知识蒸馏&amp;模型压缩\ColossalAI-Examples" />
+      <recent name="F:\2 Learning\21 模型加速-知识蒸馏&amp;模型压缩\ColossalAI-Examples\language\gpt" />
+      <recent name="F:\2 Learning\21 模型加速-知识蒸馏&amp;模型压缩\ColossalAI-Examples\language\gpt\dataset" />
+      <recent name="F:\1 Learning\21 模型加速-知识蒸馏&amp;模型压缩\ColossalAI-Examples\language\gpt\dataset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\1 Learning\21 模型加速-知识蒸馏&amp;模型压缩\ColossalAI-Examples" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e381154e-f63c-4c5a-8f7f-7d68133e351f" name="Changes" comment="" />
+      <created>1668910305438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668910305438</updated>
+      <workItem from="1668910307156" duration="1716000" />
+      <workItem from="1669009112000" duration="1206000" />
+      <workItem from="1669050543220" duration="1196000" />
+      <workItem from="1669183632553" duration="3857000" />
+      <workItem from="1669206140957" duration="3667000" />
+      <workItem from="1669259447710" duration="2464000" />
+      <workItem from="1669283247011" duration="2325000" />
+      <workItem from="1669344594859" duration="1399000" />
+      <workItem from="1669603447069" duration="8720000" />
+      <workItem from="1669693526513" duration="2992000" />
+      <workItem from="1669779205695" duration="11696000" />
+      <workItem from="1669859980850" duration="9134000" />
+      <workItem from="1669950298123" duration="4268000" />
+      <workItem from="1670490729339" duration="4341000" />
+      <workItem from="1670549825859" duration="6285000" />
+      <workItem from="1670564367390" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

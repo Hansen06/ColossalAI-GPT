@@ -1,0 +1,1 @@
+python -m torch.distributed.launch --nproc_per_node 1 --master_addr localhost --master_port 2950 train_gpt.py --config=gpt2_configs/gpt2_zero3.py --from_torch --model_checkpoint --train_path
